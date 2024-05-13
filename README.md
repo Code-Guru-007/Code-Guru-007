@@ -99,9 +99,3 @@
 </table>
 <br><br>
 
-
----
-
-### :fire: My Stats :
-![Code-Guru-007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Guru-007&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Guru-007&layout=compact&theme=vision-friendly-dark)](https://github.com/Dev0109/github-readme-stats)
