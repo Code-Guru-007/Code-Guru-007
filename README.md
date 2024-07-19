@@ -1,5 +1,8 @@
+### :hammer_and_wrench: My Major Skill :
 
-### :hammer_and_wrench: My Major Skill :  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
   <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -99,4 +102,3 @@
 </table>
 <br><br>
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
