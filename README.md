@@ -108,7 +108,7 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Guru-007&theme=onedark" />
 </div>
 <div display="flex">
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Guru-007&theme=github">
-  <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Guru-007&layout=compact&theme=onedark" />
+  <img width="420px" src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Guru-007&theme=github">
+  <img width="420px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Guru-007&layout=compact&theme=onedark" />
 </div>  
 </div>
