@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br/>
+<br/>
+<br/>
   <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
