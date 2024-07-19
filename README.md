@@ -5,8 +5,7 @@
 <br/>
 <br/>
 ### :hammer_and_wrench: My Major Skill :
-<br/>
-  <div style="display: flex; align-items: flex-start; align: center">
+  <div style="display: flex; align-items: flex-start; align: center; margin-top: 10px;">
 <table align="center">
   <tr>
     <td align="center" width="96">
