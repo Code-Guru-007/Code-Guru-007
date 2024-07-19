@@ -100,7 +100,9 @@
  </tr>
 </table>
 <br><br>
+
 ## My Journey
+
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Code-Guru-007&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Guru-007&layout=compact&theme=onedark" />
