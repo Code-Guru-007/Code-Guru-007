@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Code-Guru-007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<br/>
-<br/>
-<br/>
+![Snake animation](https://raw.githubusercontent.com/Code-Guru-007/Code-Guru-007/output/snake.svg)
+
 ### :hammer_and_wrench: My Major Skill :
+
   <div style="display: flex; align-items: flex-start; align: center; margin-top: 10px;">
 <table align="center">
   <tr>
@@ -103,4 +100,10 @@
  </tr>
 </table>
 <br><br>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## My Journey
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Code-Guru-007&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Guru-007&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Guru-007&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Guru-007&theme=onedark" />
+</div>
